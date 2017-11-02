@@ -1,0 +1,22 @@
+{
+  "name": "pojo-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aabida/pojo-generator.git"
+  },
+  "author": "Ahmed ABIDA",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aabida/pojo-generator/issues"
+  },
+  "homepage": "https://github.com/aabida/pojo-generator#readme",
+  "dependencies": {
+    "velocityjs": "^0.9.6"
+  }
+}
